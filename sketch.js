@@ -85,7 +85,7 @@ function setup() {
 
 function draw() {
     
-l1.shapeColor = "#000000";
+l1.shapeColor = "#ffffff";
 l2.shapeColor = "#000000";
 l3.shapeColor = "#000000";
 l4.shapeColor = "#000000";
